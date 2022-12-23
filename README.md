@@ -1,1 +1,4 @@
 # dictionary
+
+[image](dictionary.png)
+
