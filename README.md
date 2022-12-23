@@ -1,4 +1,4 @@
 # dictionary
 
-[image](dictionary.png)
+![image](dictionary.png)
 
